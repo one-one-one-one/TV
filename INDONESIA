@@ -1,0 +1,134 @@
+#EXTM3U
+
+
+#EXTINF:- ,Indosiar
+https://anevia115.mncnow.id/live/eds/Indosiar/sa_hls/Indosiar-avc1=12-mp4a=5.m3u8
+
+#EXTINF:- ,RCTI
+https://live.rctiplus.id/rctiplus/rcti_540p.m3u8
+
+#EXTINF:- ,TV ONE
+https://anevia115.mncnow.id/live/eds/TVOne/sa_hls/TVOne-avc1_1000000=7-mp4a_66000_eng=5.m3u8
+
+#EXTINF:- ,SCTV
+https://anevia115.mncnow.id/live/eds/SCTV/sa_hls/SCTV-avc1_1000000=9-mp4a_66000_eng=5.m3u8
+
+#EXTINF:- ,ANTV
+https://anevia114.mncnow.id/live/eds/ANTV/sa_hls/ANTV-avc1_1000000=6-mp4a_66000_eng=2.m3u8
+
+#EXTINF:- ,GTV
+https://live.rctiplus.id/rctiplus/gtv_540p.m3u8
+
+#EXTINF:- ,iNews
+https://live.rctiplus.id/rctiplus/inews_540p.m3u8
+
+#EXTINF:- ,TVRI
+https://anevia114.mncnow.id/live/eds/PemersatuBangsa/sa_hls/PemersatuBangsa-avc1_1000000=6-mp4a_66000_eng=5.m3u8
+
+#EXTINF:- ,TransTV
+https://anevia114.mncnow.id/live/eds/TransTV/sa_hls/TransTV-avc1_1000000=7-mp4a_66000_eng=2.m3u8
+
+#EXTINF:- ,Trans7
+https://anevia114.mncnow.id/live/eds/Trans7/sa_hls/Trans7-avc1_1000000=7-mp4a_66000_eng=5.m3u8
+
+#EXTINF:- ,Net TV
+http://id2.indostreamingtv.com/live/nettv/index.m3u8
+
+#EXTINF:- ,Metro TV
+https://anevia115.mncnow.id/live/eds/MetroTV/sa_hls/MetroTV-avc1_1000000=7-mp4a_66000_eng=5.m3u8
+
+#EXTINF:- ,MNC TV
+https://anevia114.mncnow.id/live/eds/MNCTV/sa_hls/MNCTV-avc1_1000000=7-mp4a_66000_eng=2.m3u8
+
+#EXTINF:- ,Entertainment
+https://anevia114.mncnow.id/live/eds/MNCEntertainment/sa_hls/MNCEntertainment-avc1_1000000=7-mp4a_66000_eng=2.m3u8
+
+#EXTINF:- ,RTV
+https://anevia115.mncnow.id/live/eds/RTV/sa_hls/RTV-avc1_1000000=9-mp4a_66000_eng=2.m3u8
+
+#EXTINF:- ,Kompas TV
+https://anevia114.mncnow.id/live/eds/KompasTV/sa_hls/KompasTV-avc1_1000000=7-mp4a_66000_eng=3.m3u8
+
+#EXTINF:- ,BeritaSatu
+https://anevia114.mncnow.id/live/eds/BeritaSatu/sa_hls/BeritaSatu-avc1_1000000=7-mp4a_66000_eng=3.m3u8
+
+#EXTINF:- ,VisionPrime
+https://anevia114.mncnow.id/live/eds/VisionPrime/sa_hls/VisionPrime-avc1_1000000=6-mp4a_66000_eng=3.m3u8
+
+#EXTINF:- ,JakTV
+https://anevia114.mncnow.id/live/eds/JakTV/sa_hls/JakTV-avc1_1000000=9-mp4a_66000_eng=5.m3u8
+
+#EXTINF:- ,JTV
+https://anevia114.mncnow.id/live/eds/JTV/sa_hls/JTV-avc1_1000000=7-mp4a_66000_eng=3.m3u8
+
+#EXTINF:- ,BaliTV
+https://newweb.mncnow.id/live/eds/BaliTV/sa_hls/BaliTV-avc1_1000000=7-mp4a_66000_eng=5.m3u8
+
+#EXTINF:- ,DAAITV
+https://anevia114.mncnow.id/live/eds/DAAITV/sa_hls/DAAITV-avc1_1000000=7-mp4a_66000_eng=3.m3u8
+
+#EXTINF:- ,TV9
+https://anevia114.mncnow.id/live/eds/TV9/sa_hls/TV9-avc1_1000000=7-mp4a_66000_eng=2.m3u8
+
+#EXTINF:- ,KidsTV
+https://anevia114.mncnow.id/live/eds/KidsChannel/sa_hls/KidsChannel-avc1_1000000=9-mp4a_66000_eng=2.m3u8
+
+#EXTINF:- ,BeSmart
+https://anevia114.mncnow.id/live/eds/BeSmart/sa_hls/BeSmart-avc1_1000000=8-mp4a_66000_eng=2.m3u8
+
+#EXTINF:- ,Muslim TV
+https://anevia114.mncnow.id/live/eds/MNCMuslim/sa_hls/MNCMuslim-avc1_1000000=7-mp4a_66000_eng=5.m3u8
+
+#EXTINF:- ,MU TV
+https://anevia114.mncnow.id/live/eds/TVMuhammadiyah/sa_hls/TVMuhammadiyah-avc1_1000000=9-mp4a_66000_eng=2.m3u8
+
+#EXTINF:- ,Qur'an
+https://anevia114.mncnow.id/live/eds/AlQuranAlKareem/sa_hls/AlQuranAlKareem-avc1_1000000=11-mp4a_66000_eng=2.m3u8
+
+#EXTINF:- ,Tawaf TV
+https://anevia114.mncnow.id/live/eds/TawafTV/sa_hls/TawafTV-avc1_1000000=6-mp4a_66000_eng=2.m3u8
+
+#EXTINF:- ,Life TV
+https://anevia114.mncnow.id/live/eds/Life/sa_hls/Life-avc1_1000000=8-mp4a_66000_eng=2.m3u8
+
+#EXTINF:- ,MNCNews
+https://anevia114.mncnow.id/live/eds/MNCNews/sa_hls/MNCNews-avc1_1000000=7-mp4a_66000_eng=2.m3u8
+
+#EXTINF:- ,MNCChannel
+https://anevia114.mncnow.id/live/eds/MNCChannel/sa_hls/MNCChannel-avc1_1000000=9-mp4a_66000_eng=2.m3u8
+
+#EXTINF:- ,Music TV
+https://anevia114.mncnow.id/live/eds/MusicChannel/sa_hls/MusicChannel-avc1_1000000=7-mp4a_66000_eng=2.m3u8
+
+#EXTINF:- ,Mnc Sport
+https://anevia114.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=9-mp4a_66000_eng=5.m3u8
+
+#EXTINF:- ,Mnc Sport 2
+https://anevia114.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_1000000=9-mp4a_66000_eng=2.m3u8
+
+#EXTINF:- ,FoxSport 2
+https://anevia115.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_1000000=10-mp4a_66000_eng=3.m3u8
+
+#EXTINF:- ,FoxSport 3
+https://anevia115.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_1000000=10-mp4a_66000_eng=5.m3u8
+
+#EXTINF:- ,Bein Sport 1
+https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
+
+#EXTINF:- ,Bein Sport 2
+https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+
+#EXTINF:- ,MotoSport
+https://strm.yandex.ru/kal/motosport/motosport0_169_480p.json/index-v1-a1.m3u8?vsid=jv02ve1ga3wvd1o
+
+#EXTINF:- ,WARNER TV
+https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV-avc1_1000000=16-mp4a_98800_eng=5.m3u8
+
+
+
+
+
+
+
+
+
