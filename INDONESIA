@@ -25,8 +25,6 @@ https://anevia115.mncnow.id/live/eds/MetroTV/sa_hls/MetroTV-avc1_1000000=7-mp4a_
 https://anevia114.mncnow.id/live/eds/MNCTV/sa_hls/MNCTV-avc1_1000000=7-mp4a_66000_eng=2.m3u8
 #EXTINF:- ,Entertainment
 https://anevia114.mncnow.id/live/eds/MNCEntertainment/sa_hls/MNCEntertainment-avc1_1000000=7-mp4a_66000_eng=2.m3u8
-#EXTINF:- ,RTV
-https://anevia115.mncnow.id/live/eds/RTV/sa_hls/RTV-avc1_1000000=9-mp4a_66000_eng=2.m3u8
 #EXTINF:- ,Kompas TV
 https://anevia114.mncnow.id/live/eds/KompasTV/sa_hls/KompasTV-avc1_1000000=7-mp4a_66000_eng=3.m3u8
 #EXTINF:- ,BeritaSatu
