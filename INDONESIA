@@ -8,7 +8,7 @@ http://id1.indostreamingtv.com/live/tv444/index.m3u8
 #EXTINF:- ,SCTV
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
 #EXTINF:- ,ANTV
-https://anevia114.mncnow.id/live/eds/ANTV/sa_hls/ANTV-avc1_1000000=6-mp4a_66000_eng=2.m3u8
+http://id2.indostreamingtv.com/live/antv/index.m3u8
 #EXTINF:- ,GTV
 https://live.rctiplus.id/rctiplus/gtv_540p.m3u8
 #EXTINF:- ,iNews
