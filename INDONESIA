@@ -16,9 +16,9 @@ https://live.rctiplus.id/rctiplus/inews_540p.m3u8
 #EXTINF:- ,TVRI
 https://anevia114.mncnow.id/live/eds/PemersatuBangsa/sa_hls/PemersatuBangsa-avc1_1000000=6-mp4a_66000_eng=5.m3u8
 #EXTINF:- ,TransTV
-https://anevia114.mncnow.id/live/eds/TransTV/sa_hls/TransTV-avc1_1000000=7-mp4a_66000_eng=2.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w670976066_b384000_sleng.m3u8
 #EXTINF:- ,Trans7
-https://anevia114.mncnow.id/live/eds/Trans7/sa_hls/Trans7-avc1_1000000=7-mp4a_66000_eng=5.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sleng.m3u8
 #EXTINF:- ,Metro TV
 https://anevia115.mncnow.id/live/eds/MetroTV/sa_hls/MetroTV-avc1_1000000=7-mp4a_66000_eng=5.m3u8
 #EXTINF:- ,MNC TV
