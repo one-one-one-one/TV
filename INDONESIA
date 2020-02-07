@@ -26,22 +26,10 @@ https://anevia115.mncnow.id/live/eds/MetroTV/sa_hls/MetroTV-avc1_1000000=7-mp4a_
 https://anevia114.mncnow.id/live/eds/MNCTV/sa_hls/MNCTV-avc1_1000000=7-mp4a_66000_eng=2.m3u8
 #EXTINF:- ,Entertainment
 https://anevia114.mncnow.id/live/eds/MNCEntertainment/sa_hls/MNCEntertainment-avc1_1000000=7-mp4a_66000_eng=2.m3u8
-#EXTINF:- ,Kompas TV
-https://anevia114.mncnow.id/live/eds/KompasTV/sa_hls/KompasTV-avc1_1000000=7-mp4a_66000_eng=3.m3u8
 #EXTINF:- ,BeritaSatu
 https://anevia114.mncnow.id/live/eds/BeritaSatu/sa_hls/BeritaSatu-avc1_1000000=7-mp4a_66000_eng=3.m3u8
 #EXTINF:- ,VisionPrime
 https://anevia114.mncnow.id/live/eds/VisionPrime/sa_hls/VisionPrime-avc1_1000000=6-mp4a_66000_eng=3.m3u8
-#EXTINF:- ,JakTV
-https://anevia114.mncnow.id/live/eds/JakTV/sa_hls/JakTV-avc1_1000000=9-mp4a_66000_eng=5.m3u8
-#EXTINF:- ,JTV
-https://anevia114.mncnow.id/live/eds/JTV/sa_hls/JTV-avc1_1000000=7-mp4a_66000_eng=3.m3u8
-#EXTINF:- ,BaliTV
-https://newweb.mncnow.id/live/eds/BaliTV/sa_hls/BaliTV-avc1_1000000=7-mp4a_66000_eng=5.m3u8
-#EXTINF:- ,DAAITV
-https://anevia114.mncnow.id/live/eds/DAAITV/sa_hls/DAAITV-avc1_1000000=7-mp4a_66000_eng=3.m3u8
-#EXTINF:- ,TV9
-https://anevia114.mncnow.id/live/eds/TV9/sa_hls/TV9-avc1_1000000=7-mp4a_66000_eng=2.m3u8
 #EXTINF:- ,KidsTV
 https://anevia114.mncnow.id/live/eds/KidsChannel/sa_hls/KidsChannel-avc1_1000000=9-mp4a_66000_eng=2.m3u8
 #EXTINF:- ,BeSmart
