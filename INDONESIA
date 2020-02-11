@@ -38,12 +38,6 @@ https://anevia114.mncnow.id/live/eds/BeSmart/sa_hls/BeSmart-avc1_1000000=8-mp4a_
 https://anevia114.mncnow.id/live/eds/MNCMuslim/sa_hls/MNCMuslim-avc1_1000000=7-mp4a_66000_eng=5.m3u8
 #EXTINF: -, MU TV
 https://anevia114.mncnow.id/live/eds/TVMuhammadiyah/sa_hls/TVMuhammadiyah-avc1_1000000=9-mp4a_66000_eng=2.m3u8
-#EXTINF:- ,Qur'an
-https://anevia114.mncnow.id/live/eds/AlQuranAlKareem/sa_hls/AlQuranAlKareem-avc1_1000000=11-mp4a_66000_eng=2.m3u8
-#EXTINF:- ,Tawaf TV
-https://anevia114.mncnow.id/live/eds/TawafTV/sa_hls/TawafTV-avc1_1000000=6-mp4a_66000_eng=2.m3u8
-#EXTINF:- ,Life TV
-https://anevia114.mncnow.id/live/eds/Life/sa_hls/Life-avc1_1000000=8-mp4a_66000_eng=2.m3u8
 #EXTINF:- ,MNCNews
 https://anevia114.mncnow.id/live/eds/MNCNews/sa_hls/MNCNews-avc1_1000000=7-mp4a_66000_eng=2.m3u8
 #EXTINF:- ,MNCChannel
